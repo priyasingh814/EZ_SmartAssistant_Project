@@ -1,0 +1,1 @@
+EZ has designed this task to evaluate candidates on their ability to build AI tools that go beyond basic automation. The objective is to develop an AI assistant that not only reads content from  grotesquedocuments but can also understand and reason through it.Submit within 7 days from the date of assignment.
