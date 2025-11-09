@@ -15,7 +15,4 @@ It provides an interactive dashboard using Streamlit to explore datasets, genera
 3. Run the app:
    streamlit run app.py
 
-## Screenshot / Demo
-## Screenshot / Demo
-![Dashboard Screenshot](https://via.placeholder.com/600x400?text=Dashboard+Screenshot)
 
