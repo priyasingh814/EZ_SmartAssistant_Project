@@ -14,5 +14,11 @@ It provides an interactive dashboard using Streamlit to explore datasets, genera
    pip install -r requirements.txt
 3. Run the app:
    streamlit run app.py
+![Dashboard Screenshot](https://github.com/priyasingh814/EZ_SmartAssistant_Project/blob/main/Screenshot%202025-07-13%20185159.png)
 
+## Features
+- Upload PDF files to extract data
+- Summarize PDFs automatically
+- Answer questions from PDF content
+- Interactive dashboard using Streamlit
 
